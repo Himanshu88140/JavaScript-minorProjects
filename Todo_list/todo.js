@@ -9,6 +9,7 @@ let todoList = [
     }
   ];
   
+  
   displayItems();
   
   function addTodo() {
